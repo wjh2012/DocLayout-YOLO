@@ -1,0 +1,1 @@
+python train.py --data doclaynet --model DocLayout-YOLO --epoch 50 --image-size 1024 --project C:\Users\WONJANGHO\Desktop\results_dir --device cpu --pretrain C:\Users\WONJANGHO\Desktop\AI\model\pretrained\doclayout_yolo_docstructbench_imgsz1024.pt
